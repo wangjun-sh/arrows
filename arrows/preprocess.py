@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 from textblob import TextBlob
 
-from candidates import candidates
+from arrows.candidates import candidates
 
 
 def clean(df):
